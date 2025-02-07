@@ -8,7 +8,7 @@ public class Reverse {
 		
 		System.out.println("Hello World  " + name );
 		
-		System.out.println("The character at index " + name.charAt(4));
+		System.out.println("The character at index " + name.charAt(5));
 		
 		char [] ch = name.toCharArray();
 		
