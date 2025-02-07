@@ -8,16 +8,16 @@ public class Reverse {
 		
 		System.out.println("Hello World  " + name );
 		
-		System.out.println("The character at index " + name.charAt(3));
+		System.out.println("The character at index " + name.charAt(4));
 		
 		char [] ch = name.toCharArray();
 		
 		for (char c : ch) {
 		
-		System.out.println( c);
+		System.out.println(c);
 	 }
 		
-	for (int i = ch.length-1; i>= 0; i--) {
+	for (int i = ch.length-1;i>= 0; i--) {
 		
 		System.out.print(ch[i]);
 		
